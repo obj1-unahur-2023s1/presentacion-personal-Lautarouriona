@@ -1,5 +1,5 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
-
+![Lautaro Uriona ](./assets/Lautaro_Uriona.png)
+<img src="Lautaro_Uriona.jpg" alt="Descripción de la imagen" style="width: 50%;">
 ## Lautaro Uriona
 
 
