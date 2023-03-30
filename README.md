@@ -1,8 +1,6 @@
 ## Lautaro Uriona
 
-![Lautaro Uriona ](./assets/Urio.jpeg)
-<img src="Lautaro_Uriona.jpg" alt="Descripción de la imagen" style="width: 50%;">
-
+<img src="./assets/Urio.jpeg" alt="Descripción de la imagen" style="width: 20%;">
 
 ## Materias Aprobadas :book:
 * Introduccion a la Logica
