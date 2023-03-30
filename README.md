@@ -1,7 +1,7 @@
-![Lautaro Uriona ](./assets/Lautaro_Uriona.png)
-<img src="Lautaro_Uriona.jpg" alt="Descripción de la imagen" style="width: 50%;">
 ## Lautaro Uriona
 
+![Lautaro Uriona ](./assets/Urio.jpeg)
+<img src="Lautaro_Uriona.jpg" alt="Descripción de la imagen" style="width: 50%;">
 
 
 ## Materias Aprobadas :book:
@@ -11,15 +11,13 @@
 * Programacion Estructurada
 * Matematica para informatica 2
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+## Un poco sobre mi:
+- [x] lol
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+### Pasatiempos:
+* Soy parte de la Orquesta de La UNAHUR aprendiendo a tocar la trompeta
+![trompeta](https://www.gonzalezvientos.com.ar/gvstore/wp-content/uploads/2015/07/1-19.jpg)
+* Tengo un canal de Youtube sobre musica de genero Instrumental/hiphop
+- [x] [Canal Youtube](https://www.youtube.com/@lau-tobeats6371)
+* En mis tiempos libres trato de modificar y crear mapas de un juego antiguo llamado Warcraft 3 (Cuna de varios juegos estilo MOBA y estrategia)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
