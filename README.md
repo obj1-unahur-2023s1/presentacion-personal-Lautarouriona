@@ -19,6 +19,6 @@ una casa, abajo viven mi padres y mis hermanos. Termine la tecnicatura electroni
 
 ![trompeta](./assets/lol2.png)
 * Tengo un canal de Youtube sobre musica de genero Instrumental/hiphop
-- [x] [Canal Youtube](https://www.youtube.com/@lau-tobeats6371)
+- [<img src="./assets/yt.png" alt="Descripción de la imagen" style="width: 2%;">] [Canal De Youtube](https://www.youtube.com/@lau-tobeats6371)
 * En mis tiempos libres trato de modificar y crear mapas de un juego antiguo llamado Warcraft 3 (Cuna de varios juegos estilo MOBA y estrategia)
 * En estos momentos estaria aprendiendo a manejar, si dios quiere para septiempre ya deberia saber
