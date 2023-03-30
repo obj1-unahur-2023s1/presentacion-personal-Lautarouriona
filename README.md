@@ -13,7 +13,7 @@
 - [x] Naci en Hurlingham 
 
 ### Pasatiempos:
-* Soy parte de la Orquesta de La UNAHUR aprendiendo a tocar la trompeta
+* Soy parte de la Orquesta de La UNAHUR en el sector de la trompeta
 
 
 ![trompeta](./assets/lol2.png)
